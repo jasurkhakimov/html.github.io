@@ -1,0 +1,68 @@
+h1{
+
+	text-align: center;
+	font-size: 150%;
+	font-family: verdana;
+}
+pre{
+	font-size: 110%;
+	font-family: verdana;
+}
+p{
+	margin: 10pt;
+	text-align: justify;
+	font-family: verdana;
+	font-size: 110%;
+}
+a{
+	text-decoration: none;
+	font-family: verdana;
+	color: red;
+}
+a:hover{
+	font-family:verdana;
+	color: yellow;
+}
+body{
+	background: linear-gradient(to top, #ffdd93,#ffc8b0);
+    padding: 20px;
+}
+ul{
+	font-family: verdana;
+	font-size: 110%;
+}
+#MO{
+	color: black;
+	text-decoration: none;
+}
+#MO:hover{
+	color: yellow;
+}
+img{
+	isplay: block;
+	margin: 0 auto;
+	border: 10px solid transparent;
+}
+.movie{
+	color: #3e1f6b;
+	text-align: center;
+}
+.ref{
+	text-align: center;
+}
+h2{
+	font-family: verdana;
+	text-align: center;
+	font-size: 125%;
+}
+.center{
+	text-align: center;
+	font-family: verdana;
+}
+hr{
+	border: 1.5px solid black;
+}
+.head{
+	font-size: 170%;
+	color: #3e1f6b;
+}
